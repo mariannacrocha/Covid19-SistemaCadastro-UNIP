@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604890167 source:c:\projetoc\covid19-sistemacadastro-unip\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<direct.h>
+
