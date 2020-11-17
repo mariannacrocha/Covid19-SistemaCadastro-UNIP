@@ -5,4 +5,4 @@
 ##### Cadastro de pacientes diagnosticados como positivo para Covid-19
 * Página inicial de login e senha
 * Menu principal com 04 opções
-* Cadastro de dois arquivos (01 com os pacientes que não fazem parte do grupo de risco e 01 com os pacientes do grupo de risco)
+* Cadastro de três arquivos (01 com os pacientes que não fazem parte do grupo de risco,01 com os pacientes do grupo de risco e 01 com todos os pacientes cadastrados)
